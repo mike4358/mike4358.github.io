@@ -29,7 +29,7 @@ github_username:  mike4358
 markdown: kramdown
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
